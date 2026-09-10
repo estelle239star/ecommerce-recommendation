@@ -1,5 +1,10 @@
 # 多品类电商用户行为分析与智能推荐决策系统
 
+🌐 **在线 Dashboard：** [点击查看](https://ecommerce-recommendation-estelle.streamlit.app/)
+
+💻 **技术栈：** Python / Pandas / DuckDB / SQL / SciPy / Scikit-learn / Streamlit / Plotly
+
+
 本项目基于 Kaggle 多品类电商用户行为数据，围绕电商平台经营分析、用户行为分析、用户价值分层和个性化推荐展开。
 
 原始数据覆盖 2019 年 10 月至 11 月，共约 1.10 亿条用户行为记录。项目使用 DuckDB 对大规模 CSV 数据进行清洗和查询，并转换为 Parquet 格式用于后续分析。
