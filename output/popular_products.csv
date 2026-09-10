@@ -1,0 +1,11 @@
+product_id,user_count,popularity_score,category_code,brand,avg_price
+1004856,415235,1628935.0,electronics.smartphone,samsung,129.02
+1004767,370099,1378115.0,electronics.smartphone,samsung,247.13
+1005115,372130,1320512.0,electronics.smartphone,apple,946.31
+4804056,154799,875231.0,electronics.audio.headphone,apple,162.11
+1004833,209924,741782.0,electronics.smartphone,samsung,171.29
+1004870,185316,725454.0,electronics.smartphone,samsung,283.39
+1004249,190173,667955.0,electronics.smartphone,apple,750.4
+1005105,240113,648182.0,electronics.smartphone,apple,1373.81
+1002544,194813,647931.0,electronics.smartphone,apple,469.13
+1005160,149218,570186.0,electronics.smartphone,xiaomi,208.83

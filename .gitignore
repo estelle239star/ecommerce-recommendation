@@ -1,0 +1,22 @@
+# Python 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter 临时文件
+.ipynb_checkpoints/
+notebooks/.tmp/
+
+# 大型原始/处理后数据
+data/raw/
+data/processed/*.parquet
+
+# 系统及编辑器临时文件
+.DS_Store
+Thumbs.db
+
+# Streamlit 本地配置
+.streamlit/secrets.toml
